@@ -65,3 +65,6 @@ sklearn
 **Similar results:** :open_mouth:
 <p align="center">
 <img src="./assets/bioRxiv_COVID-19_Sanity_Similarity.gif" border="10"></p>
+
+# Liscense
+MIT
