@@ -28,6 +28,22 @@ sklearn
 ```
 
 # How to Run (Development Server)?
-**STEP 1**
+**Step 1**
 <p align="center">
 <img src="./assets/Step1.PNG" border="10"></p>
+
+**STEP 2 (Optional)**
+<p align="center">
+<img src="./assets/Step2.PNG" border="10"></p>
+
+**STEP 3**
+<p align="center">
+<img src="./assets/Step3.PNG" border="10"></p>
+
+**STEP 4**
+<p align="center">
+<img src="./assets/Step4.PNG" border="10"></p>
+
+**STEP 5**
+<p align="center">
+<img src="./assets/Step5.PNG" border="10"></p>
