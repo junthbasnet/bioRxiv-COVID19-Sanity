@@ -15,9 +15,19 @@
 This project organizes `COVID-19 SARS-CoV-2 preprints from medRxiv and bioRxiv`. This project makes data searchable, sortable, etc. The most similar search uses **Exemplar SVM** trained on `TF-IDF feature vectors` from the `abstract, title and author` of these papers.
 
 <p align="center">
-  <img src="./assets/bioRxiv-medRxiv.png" border="10">  <img src="https://imgur.com/zIWk2E5.png" border="10" width="288" height="162">
+  <img src="./assets/bioRxiv-medRxiv.png" border="10">                                <img src="https://imgur.com/zIWk2E5.png" border="10" width="288" height="162">
 </p>
-<h1>+</h1>
+  
+# Installation Dependencies  
+```
+Python 3.8.1
+Flask 1.1.1
+requests 2.23.0
+numpy 1.18.2
+sklearn
+```
+
+# How to Run (Development Server)?
+**STEP 1**
 <p align="center">
-  <img src="./assets/bioRxiv_COVID-19_Logo.png" border="10">
-  </p>
+<img src="./assets/Step1.PNG" border="10"></p>
