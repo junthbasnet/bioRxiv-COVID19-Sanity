@@ -19,8 +19,11 @@ This project organizes `COVID-19 SARS-CoV-2 preprints from medRxiv and bioRxiv`.
 </p>
 
 Raw data is available at [bioRxiv and medRxiv Page.](https://connect.biorxiv.org/relate/collection_json.php?grp=181)
+
 <p align="center">
-<img src="https://imgur.com/rpe0MaJ.png" border="10"></p>
+  <a href="https://connect.biorxiv.org/relate/collection_json.php?grp=181" target="_blank"><img src="https://imgur.com/rpe0MaJ.png"
+alt="Raw Data from bioRxiv and medRxiv Page." border="10" /></a>
+</p>
   
 # Installation Dependencies  
 ```
@@ -38,7 +41,7 @@ sklearn
 
 **STEP 2 (Optional)**
 <p align="center">
-<img src="./assets/Step2.PNG" border="10"></p>
+<img src="https://imgur.com/fR7UBVB.png" border="10"></p>
 
 **STEP 3**
 <p align="center">
