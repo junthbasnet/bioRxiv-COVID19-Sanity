@@ -35,23 +35,25 @@ sklearn
 ```
 
 # How to Run (Development Server)?
-**STEP 1**
-<p align="center">
-<img src="./assets/Step1.PNG" border="10"></p>
+```js
+git clone https://github.com/Junth/bioRxiv-COVID19-Sanity.git
+```
 
-**STEP 2 (Optional)**
-<p align="center">
-<img src="https://imgur.com/fR7UBVB.png" border="10"></p>
+```js
+cd bioRxiv-COVID19-Sanity
+```
 
-**STEP 3**
-<p align="center">
-<img src="./assets/Step3.PNG" border="10"></p>
-
-**STEP 4**
+```js
+pip install -r requirements.txt
+```
 <p align="center">
 <img src="./assets/Step4.PNG" border="10"></p>
 
-**STEP 5**
+```js
+python run.py
+export FLASK_APP=serve.py
+flask run
+```
 <p align="center">
 <img src="./assets/Step5.PNG" border="10"></p>
 
